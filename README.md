@@ -1,1 +1,1 @@
-https://orest-novak4.github.io/web/lab_01
+https://orest-novak4.github.io/web/lab_02
