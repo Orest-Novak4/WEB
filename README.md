@@ -1,4 +1,6 @@
-https://Orest-Novak4.github.io/WEB/lab_01
+https://Orest-Novak4.github.io/WEB/lab_01/cars
+https://Orest-Novak4.github.io/WEB/lab_01/food
+https://Orest-Novak4.github.io/WEB/lab_01/kitchen
 https://Orest-Novak4.github.io/WEB/lab_02
 https://Orest-Novak4.github.io/WEB/lab_03
 https://Orest-Novak4.github.io/WEB/lab_04
