@@ -2,7 +2,7 @@ https://Orest-Novak4.github.io/WEB/lab_01
 https://Orest-Novak4.github.io/WEB/lab_02
 https://Orest-Novak4.github.io/WEB/lab_03
 https://Orest-Novak4.github.io/WEB/lab_04
-https://Orest-Novak4.github.io/WEB/lab_05
+file:///C:/Users/Admin/Documents/WEB/lab_05/index.html
 https://Orest-Novak4.github.io/WEB/lab_06
 https://Orest-Novak4.github.io/WEB/lab_07
 https://Orest-Novak4.github.io/WEB/lab_08
