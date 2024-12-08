@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Filter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Список роботи</h1>
+        <div class="filter">
+            <input type="text" id="searchInput" placeholder="Search by keyword..." />
+            <select id="categoryFilter">
+                <option value="">All Categories</option>
+                <option value="IT">IT</option>
+                <option value="Design">Design</option>
+                <option value="Marketing">Marketing</option>
+            </select>
+        </div>
+        <ul id="jobList">
+            <li class="job" data-category="IT">Розробник інтерфейсу</li>
+            <li class="job" data-category="Design">Графічний дизайнер</li>
+            <li class="job" data-category="Marketing">Спеціаліст з маркетингу</li>
+            <li class="job" data-category="IT">Бекенд-розработчик</li>
+            <li class="job" data-category="Design">
+                UI/UX дизайнер</li>
+        </ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
