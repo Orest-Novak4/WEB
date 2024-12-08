@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0D1A27;
+    color: white;
+    line-height: 1.6;
+}
+
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    position: relative;
+    background: linear-gradient(to right, white, black);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+header h1 {
+    font-size: 40px;
+    color: #fff;
+}
+
+header h1 em {
+    font-style: italic;
+    color: white;
+
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+
+section.facts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.fact {
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.fact h2 {
+    font-size: 20px;
+    margin-bottom: 30px;
+    background: linear-gradient(to right, white, gray);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+}
+
+.fact p {
+    font-size: 16px;
+    background: linear-gradient(to right, white, gray);
+    -webkit-background-clip: text;
+    color: transparent;
+}
