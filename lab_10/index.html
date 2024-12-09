@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Футбольні Команди</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="main-content">
+        <div class="team-card" onclick="showTeamInfo('Real Madrid', 'Реал Мадрид', 'images/real-madrid.png', 'Реал Мадрид є одним із найуспішніших футбольних клубів у світі.')">
+            <img src="images/real-madrid.png" alt="Реал Мадрид">
+            <p>Реал Мадрид</p>
+        </div>
+        <div class="team-card" onclick="showTeamInfo('Chelsea', 'Челсі', 'images/chelsea.png', 'Челсі ФК — англійський професійний футбольний клуб із Лондона.')">
+            <img src="images/chelsea.png" alt="Челсі">
+            <p>Челсі</p>
+        </div>
+        <div class="team-card" onclick="showTeamInfo('Barcelona', 'Барселона', 'images/barcelona.png', 'ФК «Барселона» — футбольний клуб з міста Барселона, Іспанія.')">
+            <img src="images/barcelona.png" alt="Барселона">
+            <p>Барселона</p>
+        </div>
+        <div class="team-card" onclick="showTeamInfo('Dynamo Kyiv', 'Динамо Київ', 'images/dynamo-kyiv.png', 'ФК «Динамо» Київ — професійний футбольний клуб з Києва, Україна.')">
+            <img src="images/dynamo-kyiv.png" alt="Динамо Київ">
+            <p>Динамо Київ</p>
+        </div>
+    </div>
+
+    <div id="teamModal" class="modal">
+        <div class="modal-content">
+            <span id="closeModal" class="close-btn">&times;</span>
+            <h2 id="teamName"></h2>
+            <img id="teamImage" src="" alt="Team Image" style="width: 100px; height: auto;">
+            <p id="teamInfo"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
