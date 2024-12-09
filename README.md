@@ -3,7 +3,7 @@ https://Orest-Novak4.github.io/WEB/lab_01/food
 https://Orest-Novak4.github.io/WEB/lab_01/kitchen
 https://Orest-Novak4.github.io/WEB/lab_02
 https://Orest-Novak4.github.io/WEB/lab_03
-https://Orest-Novak4.github.io/WEB/lab_04
+https://Orest-Novak4.github.io/WEB/lab_04/index (4)
 https://Orest-Novak4.github.io/WEB/lab_05
 https://Orest-Novak4.github.io/WEB/lab_06
 https://Orest-Novak4.github.io/WEB/lab_07
