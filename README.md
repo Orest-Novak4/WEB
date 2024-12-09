@@ -11,3 +11,4 @@ https://Orest-Novak4.github.io/WEB/lab_08
 https://Orest-Novak4.github.io/WEB/lab_09
 https://Orest-Novak4.github.io/WEB/lab_10
 https://Orest-Novak4.github.io/WEB/lab_11
+https://Orest-Novak4.github.io/WEB/lab_12
