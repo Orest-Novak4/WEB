@@ -1,0 +1,52 @@
+header {
+    background-repeat: no-repeat;
+    background-image: url("images/header.jpg");
+    background-size: 100% 100%;
+    width: 100%;
+    height: 200px;
+
+    h1 {
+        font-size: 80px;
+        font-family: 'Lato', sans-serif;
+        margin: 0;
+        padding: 81px 0 0 21px;
+        text-align: center;
+        color: #ffffff;
+    }
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    color: #333333;
+    margin: 0px;
+    padding: 0px;
+
+    main {
+        padding: 30px 100px;
+        gap: 40px;
+        width: auto;
+        display: flex;
+        flex-direction: row;
+
+        .content {
+            width: 70%;
+
+            button {
+                padding: 8px;
+                border: 1px solid red;
+                border-radius: 30px;
+                background: white;
+                color: red;
+            }
+        }
+
+        aside {
+            width: 30%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+}
